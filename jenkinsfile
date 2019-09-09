@@ -3,7 +3,7 @@ pipeline {
          stages {
                  stage('One') {
                  steps {
-                     echo "Hi,Manohar, Let's start the Pipeline"
+                     echo "Hi,Manohar, Let's start the Pipeline game"
                  }
                  }
                  stage('Two') {
