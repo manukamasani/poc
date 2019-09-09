@@ -3,7 +3,7 @@ pipeline {
          stages {
                  stage('One') {
                  steps {
-                     echo "Hi,Docker is running Let's start the Pipeline game"
+                     echo "Hi,Docker is running  start the Pipeline game"
                  }
                  }
                  stage('Two') {
